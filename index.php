@@ -1,5 +1,4 @@
 <?php
-var_dump('this is develop .. and it dies'); die();
 
 /**
  * Application entry point
